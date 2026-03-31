@@ -2,6 +2,8 @@
 
 Best practices for coding with an LLM (mostly on GPT 4o). Examples from real life scenarios and from Deeplearning.ai.
 
+NOTE: All code is currently inside MyImpl directory.
+
 ## Setup
 
 1. Create a virtual environment:

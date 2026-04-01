@@ -1,8 +1,6 @@
 # Gen AI Coding Best Practices With Examples
 
-Best practices for coding with an LLM (mostly on GPT 4o). Examples from real life scenarios and from Deeplearning.ai.
-
-NOTE: All code is currently inside MyImpl directory.
+Best practices for coding with an LLM (mostly on GPT 4o * Raptor mini ). Examples from real life scenarios and Deeplearning.ai.
 
 ## Setup
 
@@ -16,13 +14,14 @@ NOTE: All code is currently inside MyImpl directory.
    source venv/bin/activate
    ```
 
-3. Install dependencies:
+3. Install dependencies (TODO):
    ```bash
    pip install -r requirements.txt
    ```
 
 ## Usage
-Every file has a "*** Prompt" section to indicate which prompts where used to generate or add functionality like tests to it. There can be multiple prompts, indicating the iterative development with the LLM.
+1. All code is inside MyImpl directory 
+2. Every file has a "*** Prompt" section to indicate which prompts where used to generate or add functionality like tests to it. There can be multiple prompts, indicating the iterative development with the LLM.
 
 
 ## Flask Apps

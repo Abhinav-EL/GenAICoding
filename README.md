@@ -14,7 +14,7 @@ Best practices for coding with an LLM (mostly on GPT 4o * Raptor mini ). Example
    source venv/bin/activate
    ```
 
-3. Install dependencies (TODO):
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
